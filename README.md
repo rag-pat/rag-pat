@@ -33,7 +33,7 @@ Asthma-management app for kids with Parent/Child/Provider roles, triage flows, a
 Built in a full software-engineering team using Git branching, testing, and CI.
 
 **Tech:** Kotlin, Android Studio, Firebase  
-**Repo:** coming soon
+**Repo:** SMART-AIR
 
 
 ## 💼 Work Experience
