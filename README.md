@@ -1,4 +1,4 @@
-Hi, I'm Rag
+**Hi, I'm Rag**
 
 Backend + applied ML engineer. CS co-op @ University of Toronto.
 
