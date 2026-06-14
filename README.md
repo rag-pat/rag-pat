@@ -1,18 +1,16 @@
-# Hi, I'm Rag
+Hi, I'm Rag
 
 Backend + applied ML engineer. CS co-op @ University of Toronto.
 
-## Currently
+**Currently**
 - Building AI discoverability infra @ Courtyard AI
 - Exploring multi-agent + LLM tooling
 
-## Selected projects
+**Selected projects**
 - CodeHealth: multi-agent code analysis (top 6 / 250 @ YC Hackathon)
 - SoccerOracle: match prediction, LightGBM + PGVector
 
-## Stack
+**Stack**
 Python, TypeScript, FastAPI, Postgres, Redis
 
 ragpatel.com
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rag-pat&show_icons=true)
