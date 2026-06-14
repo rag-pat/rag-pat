@@ -10,7 +10,4 @@ Backend + applied ML engineer. CS co-op @ University of Toronto.
 - CodeHealth: multi-agent code analysis (top 6 / 250 @ YC Hackathon)
 - SoccerOracle: match prediction, LightGBM + PGVector
 
-**Stack**
-Python, TypeScript, FastAPI, Postgres, Redis
-
 ragpatel.com
