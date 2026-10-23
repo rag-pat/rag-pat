@@ -1,13 +1,15 @@
-**Hi, I'm Rag**
+### Hi, I'm Rag 👋
 
-Backend + applied ML engineer. CS co-op @ University of Toronto.
+Software engineer. CS @ University of Toronto.
 
-**Currently**
-- Building AI discoverability infra @ Courtyard AI
-- Exploring multi-agent + LLM tooling
+**Now**
+- Research @ PATRON Lab (UofT): LLM attack/defence for AI-written public submissions
 
-**Selected projects**
-- CodeHealth: multi-agent code analysis (top 6 / 250 @ YC Hackathon)
-- SoccerOracle: match prediction, LightGBM + PGVector
+**Previously**
+- Backend intern @ Courtyard AI: AI discoverability infra
 
-ragpatel.com
+**Projects**
+- **CodeHealth**: multi-agent code analysis, top 6 / 250 @ YC Hackathon
+- **SoccerOracle**: match prediction with LightGBM + pgvector
+
+[ragpatel.com](https://ragpatel.com)
